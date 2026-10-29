@@ -17,9 +17,11 @@ Currently
 * Looking for Summer 2027 software engineering internship opportunities.
 
 
-Email:
+Personal Email:
 lechmanjonathon@gmail.com
+
+School Email:
 lechmanj@appstate.edu
 
 Links:
-linkedin: https://www.linkedin.com/in/jonathon-lechman-38bb9042b/
+https://www.linkedin.com/in/jonathon-lechman-38bb9042b/
